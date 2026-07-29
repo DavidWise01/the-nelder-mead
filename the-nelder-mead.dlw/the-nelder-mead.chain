@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 2021
+slug  : the-nelder-mead
+seal  : f361c68ee01c6240ccd05a5bfbe7efadb4fa397873d9fc44ba4073738a688c61
+prev  : 6387af6870de4b475f9bfa3afabdd7f4465c8cf6e3cd383f9359c35f9b636cf0
+link  : a5c8d736f63df251c634e6327e1b06a5966832e6bddd5be17c199905e0357513
+head  : 58f75ea3c16dd15335248556958063e570baa7539297979cbe1e5c5c960c2ca4
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
